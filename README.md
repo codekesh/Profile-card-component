@@ -33,8 +33,8 @@ This is **Profile Card Componenet Challenge On Frontend Mentor** made by me.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click for solution URL here](https://github.com/codekesh/Profile-card-component.git)
+- Live Site URL: [Click for live site URL here](https://codekesh.github.io/Profile-card-component/)
 
 ## My process
 
